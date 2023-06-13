@@ -57,7 +57,7 @@
     "camelcase": "^6.3.0",
     "chalk": "^4.1.1",
     "eslint": "^8.13.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "sanitize-filename": "^1.6.3",
     "soap": "^0.43.0",
     "supports-color": "^8.1.1",
